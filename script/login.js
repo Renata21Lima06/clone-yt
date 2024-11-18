@@ -13,8 +13,8 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     // Verificando as credenciais
     if (username === validUsername && password === validPassword) {
         alert("Login bem-sucedido!");
-        // Redirecionando para a página principal (pode ser modificada para qualquer URL)
-        window.location.href = "index.html";
+        // Redirecionando para a página principal
+        window.location.href = "./index.html";
     } else {
         // Exibindo uma mensagem de erro
         document.getElementById('error-message').textContent = "Nome de usuário ou senha inválidos!";
