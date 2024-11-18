@@ -2,6 +2,10 @@
 
 Este repositório contém o projeto desenvolvido durante a aula de desenvolvimento web, onde foi solicitado o uso da tag `<iframe>` para criar um clone do YouTube.
 
+Link = https://renata21lima06.github.io/clone-yt/
+validUsername = "usuario";
+validPassword = "senha123";
+
 ## Objetivo
 O objetivo deste projeto é replicar a interface do YouTube, permitindo a incorporação de vídeos através da tag `<iframe>` e a estruturação de uma página web básica.
 
